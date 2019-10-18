@@ -52,12 +52,12 @@ h1 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("img/BGscene_White.gif");
+    background-image: url("../img/BGscene_White.gif");
     min-height: 100%;
   }
 
   .bgbanner {
-    background-image: url("img/banner.png");
+    background-image: url("../img/banner.png");
     background-repeat: no-repeat;
     overflow: hidden;
     position: relative;
