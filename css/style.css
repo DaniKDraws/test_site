@@ -1,0 +1,88 @@
+h1 {
+    font-family: "Press Start 2P", cursive;
+    font-size: 62px;
+    color: #90C9B0;
+    text-shadow: 6px 0px #D3EAE0;}
+
+  h2 {
+    font-family: "Press Start 2P", cursive;
+    font-size: 20px;
+    color: #ffffff;
+    letter-spacing: 0.2em;
+    text-shadow: 4px 0px #1e5955;
+  }
+
+  h3 {
+    font-family: "Permanent Marker", cursive;
+    font-size: 42px;
+    letter-spacing: 0.2em;
+  }
+
+  h4 {
+    font-family: "Montserrat", cursive;
+    font-size: 16px;
+    color: #90C9B0;
+    letter-spacing: 0.3em;
+  }
+
+  body,  h5,  h6 {
+    font-family: "Montserrat", sans-serif;
+    color: #353B59;
+  }
+
+  a {
+    color: #90C9B0;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #8AC34A;
+    text-decoration: none;
+  }
+
+  .social-icon {
+    color: #90C9B0;
+  }
+
+  .w3-row-padding img {
+    margin-bottom: 15px;
+  }
+
+  .bgimg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/img/BGscene_White.gif");
+    min-height: 100%;
+  }
+
+  .bgbanner {
+    background-image: url("/img/banner.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    position: relative;
+    /* style="width: 450px; height:50px" */
+  }
+
+  .nav-bar{
+    z-index:500;
+    position: fixed;
+    top: 0;
+    width: 60%;
+  }
+
+.nav-bar-mobile{
+    z-index:500;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #ffffff;
+
+  }
+  
+.jumplink{
+    position: absolute;
+    top: -120px;
+    visibility: hidden;
+}
+
